@@ -1,2 +1,18 @@
-/**/
+h2{
+color: black;
+text-align: center;
+font-weight: bold;
+}
+.imagem{
+  height: 200px;
+  width: 100%;
+}
+body{
+  margin-top: 5vh;
+}
+#camera, #codigo, #conexao{
+  font-weight: bold;
+  font-size: 20px;
+  background-color: darkblue;
+}
 
